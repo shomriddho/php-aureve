@@ -1,0 +1,19 @@
+main{
+	overflow: hidden;
+	padding: 10%;
+	
+}
+img{
+	background-color: rgb(174, 186, 197);
+	padding: 4%;
+	margin-top: 20px;
+	
+	margin-bottom: 20px;
+	box-shadow: 2px 2px 2px black;
+}
+p{
+	font: 1em sans-serif;
+}
+h1{
+	font: 2em sans-serif;
+}

@@ -1,0 +1,16 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    /* The image used */
+    background-image: url("/img/img12.webp");
+    color: white;
+    /* Full height */
+    width: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
